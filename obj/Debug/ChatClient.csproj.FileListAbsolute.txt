@@ -1,0 +1,23 @@
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\andre\Downloads\csharp-chat-clients-master\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Form2.resources
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\bin\Debug\Macara Chat Client.exe.config
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\bin\Debug\Macara Chat Client.exe
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\bin\Debug\Macara Chat Client.pdb
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\Macara Chat Client.exe
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\Macara Chat Client.pdb
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Form3.resources
+C:\Users\andre\Downloads\Macara-Online-Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Form4.resources
