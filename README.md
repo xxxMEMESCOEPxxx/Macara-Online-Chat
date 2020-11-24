@@ -37,7 +37,7 @@ By using this program, you agree to these terms:
 
 ~~~~~~~~~~~~~~~~~~~
 
-Please read the GNU license.
+Please read the GPL 3 license.
 
 Please read the help section in the client program before you continue to use this program.
 
