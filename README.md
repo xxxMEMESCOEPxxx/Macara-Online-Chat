@@ -1,6 +1,6 @@
 # Macara-Online-Chat
 Macara Online Chat is a chat service that you can use to talk with friends and family across the internet! Just have them set up a server, 
-port forward using Hamachi (you can find it here: https://www.vpn.net/), send you the IP Address that Hamachi gives you, and chat away! 
+create a free VPN using Hamachi (you can find it here: https://www.vpn.net/), send you the IP Address that Hamachi gives you, and chat away! 
 
 Here is a great tutorial on how to set up Hamachi: 
 
@@ -8,9 +8,11 @@ https://wiretuts.com/playing-old-lan-games-over-internet-using-hamachi-in-2019
 
 
 Thank you for using Macara Online Chat! I hope you enjoy using it.
-If you have any concerns or questions, please submit them in the "Isues" section of this repository.
+If you have any concerns or questions, please submit them in the "Issues" section of this repository.
 
-~~~Legal Stuff~~~
+Now for the legal statements:
+
+~~~~~~
 
 (C) Andrew Maney 11-24-2020
 
@@ -33,7 +35,7 @@ By using this program, you agree to these terms:
 7. You are to be held responsible for your actions and words on the internet
 8. Online interactions will be different every time. Please be considerate of others on the server.
 9. You are free to share, copy, and fork this program as loong as you give credit to the author where due.
-10. If you do not abide by the above statement and release o copy or fork of this program without credit, it shall be taken down by force.
+10. If you do not abide by the above statement and release a copy or fork of this program or repository without credit, it shall be taken down by force.
 
 ~~~~~~~~~~~~~~~~~~~
 
