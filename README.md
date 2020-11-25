@@ -20,7 +20,7 @@ By using this program, you agree to these terms:
 2. You are NOT responsible for all actions of others in your server
 3. This is by NO MEANS a FINISHED PROGRAM! Do not expect it to be perfect!
 4. You are responsible for your actions in ANY SERVER!
-5. You use this program at your own risk! Please be cautious about giving your IP to others!
+5. You use this program at your own risk! Please be cautious about giving your IP and network name to others!
 6. Do NOT under ANY CIRCUMSTANCES share personal information such as but not limited to:
 
   {} Usernames and or passwords
@@ -28,7 +28,7 @@ By using this program, you agree to these terms:
   {} Phone numbers, Address, ETC
   {} Place of work, Shool you attend, IP Address, ETC
   {} Credit card, Debit card, or bank accout details
-  {} Personal data of any kind, location, Age, Gender, race
+  {} Personal data of any kind, location, Age, Gender, Race
 
 7. You are to be held responsible for your actions and words on the internet
 8. Online interactions will be different every time. Please be considerate of others on the server.
@@ -40,6 +40,7 @@ By using this program, you agree to these terms:
 Please read the GPL 3 license.
 
 Please read the help section in the client program before you continue to use this program.
+If you have any further questions, contact me at andrewmaney05@gmail.com
 
 Thank you,
 
