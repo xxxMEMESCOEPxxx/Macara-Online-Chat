@@ -34,8 +34,8 @@ By using this program, you agree to these terms:
 
 7. You are to be held responsible for your actions and words on the internet
 8. Online interactions will be different every time. Please be considerate of others on the server.
-9. You are free to share, copy, and fork this program as loong as you give credit to the author where due.
-10. If you do not abide by the above statement and release a copy or fork of this program or repository without credit, it shall be taken down by force.
+9. You are free to share, copy, and fork this program as long as you give credit to the author where due.
+10. If you do not abide by the above statement and release a copy or fork of this program or repository without credit, it shall be taken down.
 
 ~~~~~~~~~~~~~~~~~~~
 
