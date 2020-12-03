@@ -1,6 +1,6 @@
 # Macara-Online-Chat
 Macara Online Chat is a chat service that you can use to talk with friends and family across the internet! Just have them set up a server, 
-create a free VPN using Hamachi (you can find it here: https://www.vpn.net/), send you the IP Address that Hamachi gives you, and chat away! 
+create a free VPN using Hamachi (you can find it here: https://www.vpn.net/), send you the IP Address that Hamachi gives them, and start chatting! 
 
 Here is a great tutorial on how to set up Hamachi: 
 
